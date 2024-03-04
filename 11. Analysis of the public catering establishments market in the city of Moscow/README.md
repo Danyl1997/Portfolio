@@ -1,4 +1,4 @@
-# Analysis of the public catering establishments market in the icty of Moscow 
+# Analysis of the public catering establishments market in the city of Moscow 
 
 #### Research Objectives 
 Analyze the public catering market in Moscow, considering the following categories: cafe, restaurant, pizzeria, pub, or bar. Identify interesting features and present the obtained results that will help in the future choice of suitable establishments and locations for investors.
