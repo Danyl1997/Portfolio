@@ -6,5 +6,5 @@ Utilizing the functionality of the Pandas library, determine whether marital sta
 #### Results of the research:
 The portrait of the ideal borrower looks like this: married individuals without children, with an income level ranging from 200,001 to 1,000,000 rubles, seeking a loan for real estate transactions
 
-#### Tools: 
+#### Skills and tools: 
 Python, Pandas, data preprocessing, duplicates, missing values, categorization, decomposition, financial analytics.
