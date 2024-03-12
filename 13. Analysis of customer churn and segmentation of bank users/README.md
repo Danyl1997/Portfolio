@@ -1,4 +1,4 @@
-# Analysis of customer churn and segmentation of bank users
+# Analysis of customer churn rate and segmentation of bank users
 
 #### Research Objectives: 
 This work will conduct an analysis of customer churn and segmentation of bank users. For this purpose, segmentation reflecting the frequency of bank services usage by clients will be used. In addition, an analysis of relationships will be carried out, and several types of visualizations will be created
